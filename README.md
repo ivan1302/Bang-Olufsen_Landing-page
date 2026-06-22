@@ -21,10 +21,10 @@ Experience the live website: [Bang & Olufsen DEMO LINK](https://ivan1302.github.
 
 # 🚀 Getting Started
 
-1 git clone https://github.com/ivan1302/Bang-Olufsen_Landing-page.git
-2 cd project-name
-3 npm install
-4 npm start
+* git clone https://github.com/ivan1302/Bang-Olufsen_Landing-page.git
+* cd project-name
+* npm install
+* npm start
 
 ## ✨ Features
 
