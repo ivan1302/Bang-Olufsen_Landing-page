@@ -33,6 +33,12 @@
     &:focus {
       border: 2px solid #f98921;
     }
+
+    &:autofill,
+    &:-webkit-autofill {
+      -webkit-text-fill-color: inherit;
+      -webkit-box-shadow: 0 0 0 1000px #f9f9f9 inset;
+    }
   }
 
   &__input--tall {

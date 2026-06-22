@@ -10,7 +10,7 @@ Experience the live website: [Bang & Olufsen DEMO LINK](https://ivan1302.github.
 
 [B&O(Figma)](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6817-212&t=t84ZvN3TPXoKp8Ui-0)
 
-# 🤖 Technologies Used
+# Technologies Used
 
 * HTML5
 * SCSS
@@ -19,14 +19,14 @@ Experience the live website: [Bang & Olufsen DEMO LINK](https://ivan1302.github.
 * ESLint
 * Prettier
 
-# 🚀 Getting Started
+# Getting Started
 
 * git clone https://github.com/ivan1302/Bang-Olufsen_Landing-page.git
 * cd project-name
 * npm install
 * npm start
 
-## ✨ Features
+# Features
 
 * Responsive layout for all screen sizes
 * Sticky header on scroll
