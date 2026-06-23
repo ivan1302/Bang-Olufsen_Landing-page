@@ -53,7 +53,26 @@
 
   &__link {
     margin-block: 0;
+    position: relative;
     text-decoration: none;
     color: #191919;
+
+    &::after {
+      content: '';
+      position: absolute;
+      bottom: -8px;
+      display: block;
+      height: 1px;
+      width: 100%;
+      background-color: $main-text-color;
+
+      transition: transform 0.3s;
+      transform: scale(0);
+      transform-origin: left;
+    }
+
+    &:hover::after {
+      transform: scale(1);
+    }
   }
 }
